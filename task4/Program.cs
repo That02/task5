@@ -7,7 +7,7 @@ class Program
     static void Main(string[] args)
     {
         
-        double[] numbers = { 2.5, 4.7, 1.3, 9.2, 5.0 };
+        double[] numbers = {3.22, 4.2, 1.15, 77.15, 65.2]};
 
        
         double min = numbers[0];
