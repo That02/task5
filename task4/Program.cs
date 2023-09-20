@@ -31,5 +31,6 @@ i = i + 1;
 return max-min;
 }
 
+
 mas(a);
 Console.Write($"\nРазница между максимальным и минимальным элементов массива: {difference(randomArray)} F2:");
